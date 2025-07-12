@@ -1,0 +1,9 @@
+vosk                # Offline speech recognition
+pyttsx3             # Offline text-to-speech
+psutil              # Process management
+pyautogui           # GUI automation
+python-vlc          # Play music via VLC
+sounddevice          # for microphone capture
+openai              # ChatGPT integration
+# Optional for local LLM:
+# llama-cpp-python
